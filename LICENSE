@@ -1,6 +1,10 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 LeRouxJonathan
+Copyright (c) 2015 Jonathan G. LeRoux
+Email: lerouxjonathan90@gmail.com
+GitHub: github.com/LeRouxJonathan/SimpleS3
+
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,4 +23,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Amazon Web Services and Amazon Simple Storage Service (S3) are fully
+owned by Amazon and Amazon.com. The author does not claim ownership
+to any inherent piece of code to the Amazon AWS, S3 service or any 
+Amazon.com offerings, services, or platforms.
 
